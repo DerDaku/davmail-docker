@@ -8,7 +8,7 @@ For more information, code, and support, visit the [official DavMail website][li
 
 ---
 
-## What is DavMail?
+## What is DavMail??
 
 DavMail is a gateway that allows you to use standard email clients (like Thunderbird or Outlook) to access Microsoft Exchange services. This Docker image provides an easy way to deploy and manage DavMail in a containerized environment.
 
